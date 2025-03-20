@@ -1,2 +1,3 @@
-# microservice-java-and-RabbitMQ-queue
-🏗 Build Microservice: RabbitMQ order processing &amp; REST API for order details
+# Microservice Java Java, Spring Boot, RabbitMQ queue and PostgreSQL
+
+🏗 Build Microservice: RabbitMQ order processing & REST API for order details.
